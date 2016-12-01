@@ -1,0 +1,8 @@
+[
+	{
+		"id": "watchair_ip",
+		"type": "text",
+		"label": "WatchAir IP",
+		"default": ""
+	}
+]
